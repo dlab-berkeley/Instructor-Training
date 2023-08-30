@@ -17,7 +17,7 @@ After part one of this workshop, you will be able to:
 - Rreflect on your past experiences and goals as instructors.
 - Practice pedagogical approaches to ensure learning goals are communicated and learners are motivate.
 - Receive support about your teaching.
-- Help to foster a culture of learning and growth
+- Help to foster a culture of learning and growth.
 
 After part two of this workshop, you will be able to:
 
