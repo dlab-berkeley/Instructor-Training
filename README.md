@@ -14,8 +14,8 @@ In this workshop, we provide an overview of D-Lab workshop instruction. In part 
 
 After part one of this workshop, you will be able to:
 
-- Rreflect on your past experiences and goals as instructors.
-- Practice pedagogical approaches to ensure learning goals are communicated and learners are motivate.
+- Reflect on your past experiences and goals as instructors.
+- Practice pedagogical approaches to ensure learning goals are communicated and learners are motivated.
 - Receive support about your teaching.
 - Help to foster a culture of learning and growth.
 
