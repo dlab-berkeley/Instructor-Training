@@ -76,6 +76,6 @@ Visit the [D-Lab homepage](https://dlab.berkeley.edu/) to learn more about us. Y
 
 # Contributors
 
-Emily Grabowski
-
-Tom van Nuenen
+- Tom van Nuenen
+- Hero Ashman
+- Emily Grabowski
