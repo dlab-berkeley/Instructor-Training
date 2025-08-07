@@ -2,6 +2,8 @@
 
 [![DataHub](https://img.shields.io/badge/launch-datahub-blue)](http://dlab.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FInstructor-Training&urlpath=lab%2Ftree%2FInstructor-Training%2F)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Open Slides - Instructor Training](https://img.shields.io/badge/open-slides%20-purple)](ht[tps://docs.google.com/presentation/d/1k07dx1azsjQG5LgZ9mV2I771MEH_aPlvJ6iYlsFh-rY/](https://docs.google.com/presentation/d/1jPJBTNBDrL7Gn7Eut-2mBF0ty_g7QRqFmVkNycjfma8/edit?slide=id.g2ee4622a37c_0_84#slide=id.g2ee4622a37c_0_84))
+
 
 This repository contains the materials for D-Lab's Instructor Training workshop. 
 
