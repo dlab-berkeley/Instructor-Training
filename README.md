@@ -4,10 +4,7 @@
 
 **Slides Instructor Training**: [![Open Slides](https://img.shields.io/badge/open-slides%20-purple)](https://docs.google.com/presentation/d/1jPJBTNBDrL7Gn7Eut-2mBF0ty_g7QRqFmVkNycjfma8/edit?slide=id.g2ee4622a37c_0_84)
 
-## Slides Assistant Instructor Training
-[![Open Slides](https://img.shields.io/badge/open-slides%20-purple)](https://docs.google.com/presentation/d/1FeF7Zbep-1WKpj5u1akqokQwmoQfPRDPy85ARbP9W7E/)
-
-
+**Slides Assistant Instructor Training**: [![Open Slides](https://img.shields.io/badge/open-slides%20-purple)](https://docs.google.com/presentation/d/1FeF7Zbep-1WKpj5u1akqokQwmoQfPRDPy85ARbP9W7E/)
 
 This repository contains the materials for D-Lab's Instructor Training workshop. 
 
